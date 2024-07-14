@@ -1,5 +1,5 @@
 title: Dark Faster Title Screen (Rando Themed) - PC
-description: get into the game super fast, now with style + dark mode
+description: get into the game super fast, now with style + dark mode. updated for steam and egs 1.0.0.9
 assets:
 - name: menu/fm/title.2ld
   multi:
@@ -12,73 +12,115 @@ assets:
   method: copy
   source:
   - name: title_new.2ld
-- name: remastered/menu/fr/title.2ld/FR_title_2ld1.png
+- name: remastered/menu/fr/title.2ld/0.png
   multi:
-  - name: remastered/menu/gr/title.2ld/GR_title_2ld1.png
-  - name: remastered/menu/it/title.2ld/IT_title_2ld1.png
-  - name: remastered/menu/sp/title.2ld/SP_title_2ld1.png
-  - name: remastered/menu/uk/title.2ld/UK_title_2ld1.png
-  - name: remastered/menu/us/title.2ld/US_title_2ld1.png
+  - name: remastered/menu/gr/title.2ld/0.png
+  - name: remastered/menu/it/title.2ld/0.png
+  - name: remastered/menu/sp/title.2ld/0.png
+  - name: remastered/menu/uk/title.2ld/0.png
+  - name: remastered/menu/us/title.2ld/0.png
+  method: copy
+  source:
+  - name: remastered/menu/us/title.2ld/US_title_2ld0.png
+    type: internal
+- name: remastered/menu/fr/title.2ld/1.png
+  multi:
+  - name: remastered/menu/gr/title.2ld/1.png
+  - name: remastered/menu/it/title.2ld/1.png
+  - name: remastered/menu/sp/title.2ld/1.png
+  - name: remastered/menu/uk/title.2ld/1.png
+  - name: remastered/menu/us/title.2ld/1.png
   method: copy
   source:
   - name: title_2ld1.png
-- name: remastered/menu/fr/title.2ld/FR_title_2ld3.png
+- name: remastered/menu/fr/title.2ld/2.png
   multi:
-  - name: remastered/menu/gr/title.2ld/GR_title_2ld3.png
-  - name: remastered/menu/it/title.2ld/IT_title_2ld3.png
-  - name: remastered/menu/sp/title.2ld/SP_title_2ld3.png
-  - name: remastered/menu/uk/title.2ld/UK_title_2ld3.png
-  - name: remastered/menu/us/title.2ld/US_title_2ld3.png
+  - name: remastered/menu/gr/title.2ld/2.png
+  - name: remastered/menu/it/title.2ld/2.png
+  - name: remastered/menu/sp/title.2ld/2.png
+  - name: remastered/menu/uk/title.2ld/2.png
+  - name: remastered/menu/us/title.2ld/2.png
+  method: copy
+  source:
+  - name: remastered/menu/us/title.2ld/US_title_2ld2.png
+    type: internal
+- name: remastered/menu/fr/title.2ld/3.png
+  multi:
+  - name: remastered/menu/gr/title.2ld/3.png
+  - name: remastered/menu/it/title.2ld/3.png
+  - name: remastered/menu/sp/title.2ld/3.png
+  - name: remastered/menu/uk/title.2ld/3.png
+  - name: remastered/menu/us/title.2ld/3.png
   method: copy
   source:
   - name: title_2ld3.png
-- name: remastered/menu/fr/title.2ld/FR_title_2ld4.png
+- name: remastered/menu/fr/title.2ld/4.png
   multi:
-  - name: remastered/menu/gr/title.2ld/GR_title_2ld4.png
-  - name: remastered/menu/it/title.2ld/IT_title_2ld4.png
-  - name: remastered/menu/sp/title.2ld/SP_title_2ld4.png
-  - name: remastered/menu/uk/title.2ld/UK_title_2ld4.png
-  - name: remastered/menu/us/title.2ld/US_title_2ld4.png
+  - name: remastered/menu/gr/title.2ld/4.png
+  - name: remastered/menu/it/title.2ld/4.png
+  - name: remastered/menu/sp/title.2ld/4.png
+  - name: remastered/menu/uk/title.2ld/4.png
+  - name: remastered/menu/us/title.2ld/4.png
   method: copy
   source:
   - name: title_2ld4.png
-- name: remastered/menu/fr/title.2ld/FR_title_2ld5.png
+- name: remastered/menu/fr/title.2ld/5.png
   multi:
-  - name: remastered/menu/gr/title.2ld/GR_title_2ld5.png
-  - name: remastered/menu/it/title.2ld/IT_title_2ld5.png
-  - name: remastered/menu/sp/title.2ld/SP_title_2ld5.png
-  - name: remastered/menu/uk/title.2ld/UK_title_2ld5.png
-  - name: remastered/menu/us/title.2ld/US_title_2ld5.png
+  - name: remastered/menu/gr/title.2ld/5.png
+  - name: remastered/menu/it/title.2ld/5.png
+  - name: remastered/menu/sp/title.2ld/5.png
+  - name: remastered/menu/uk/title.2ld/5.png
+  - name: remastered/menu/us/title.2ld/5.png
   method: copy
   source:
   - name: title_2ld5.png
-- name: remastered/menu/fr/title.2ld/FR_title_2ld6.png
+- name: remastered/menu/fr/title.2ld/6.png
   multi:
-  - name: remastered/menu/gr/title.2ld/GR_title_2ld6.png
-  - name: remastered/menu/it/title.2ld/IT_title_2ld6.png
-  - name: remastered/menu/sp/title.2ld/SP_title_2ld6.png
-  - name: remastered/menu/uk/title.2ld/UK_title_2ld6.png
-  - name: remastered/menu/us/title.2ld/US_title_2ld6.png
+  - name: remastered/menu/gr/title.2ld/6.png
+  - name: remastered/menu/it/title.2ld/6.png
+  - name: remastered/menu/sp/title.2ld/6.png
+  - name: remastered/menu/uk/title.2ld/6.png
+  - name: remastered/menu/us/title.2ld/6.png
   method: copy
   source:
   - name: title_2ld6.png
-- name: remastered/menu/fr/title.2ld/FR_title_2ld7.png
+- name: remastered/menu/fr/title.2ld/7.png
   multi:
-  - name: remastered/menu/gr/title.2ld/GR_title_2ld7.png
-  - name: remastered/menu/it/title.2ld/IT_title_2ld7.png
-  - name: remastered/menu/sp/title.2ld/SP_title_2ld7.png
-  - name: remastered/menu/uk/title.2ld/UK_title_2ld7.png
-  - name: remastered/menu/us/title.2ld/US_title_2ld7.png
+  - name: remastered/menu/gr/title.2ld/7.png
+  - name: remastered/menu/it/title.2ld/7.png
+  - name: remastered/menu/sp/title.2ld/7.png
+  - name: remastered/menu/uk/title.2ld/7.png
+  - name: remastered/menu/us/title.2ld/7.png
   method: copy
   source:
   - name: title_2ld7.png
-- name: remastered/menu/fr/title.2ld/FR_title_2ld8.png
-  multi:
-  - name: remastered/menu/gr/title.2ld/GR_title_2ld8.png
-  - name: remastered/menu/it/title.2ld/IT_title_2ld8.png
-  - name: remastered/menu/sp/title.2ld/SP_title_2ld8.png
-  - name: remastered/menu/uk/title.2ld/UK_title_2ld8.png
-  - name: remastered/menu/us/title.2ld/US_title_2ld8.png
+- name: remastered/menu/fr/title.2ld/8.png
   method: copy
   source:
-  - name: title_2ld8.png
+  - name: remastered/menu/fr/title.2ld/FR_title_2ld8.png
+    type: internal
+- name: remastered/menu/gr/title.2ld/8.png
+  method: copy
+  source:
+  - name: remastered/menu/gr/title.2ld/GR_title_2ld8.png
+    type: internal
+- name: remastered/menu/it/title.2ld/8.png
+  method: copy
+  source:
+  - name: remastered/menu/it/title.2ld/IT_title_2ld8.png
+    type: internal
+- name: remastered/menu/sp/title.2ld/8.png
+  method: copy
+  source:
+  - name: remastered/menu/sp/title.2ld/SP_title_2ld8.png
+    type: internal
+- name: remastered/menu/uk/title.2ld/8.png
+  method: copy
+  source:
+  - name: remastered/menu/uk/title.2ld/UK_title_2ld8.png
+    type: internal
+- name: remastered/menu/us/title.2ld/8.png
+  method: copy
+  source:
+  - name: remastered/menu/us/title.2ld/US_title_2ld8.png
+    type: internal
